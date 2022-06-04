@@ -9,6 +9,6 @@
 </code>
 <br>
 
-- ![LokalMacherGesuchtGIF (3)](https://user-images.githubusercontent.com/95333641/171996561-404d1ac3-27e1-4945-8bf0-4092a37ce6c6.gif)
+- 📍$nbsp Current Location : Fergana
 
 
