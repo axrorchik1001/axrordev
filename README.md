@@ -2,6 +2,6 @@
 
 ### Languages and Tools I work with :
 <code>
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="30px" > <br>
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="30px" > <br />
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="30px" > 
 </code>
