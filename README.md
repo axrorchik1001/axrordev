@@ -11,6 +11,6 @@
 
 - 📍&nbsp;  Current Location : Fergana
 - 📋&nbsp;  Ask me about anything. I'm happy to help you
-- 📞&nbsp;  How to reach me : https://t.me/axrordev
+- 📞&nbsp;  How to reach me : [@axrordev](https://t.me/axrordev)
 
 
